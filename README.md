@@ -6,3 +6,5 @@ Se trata de un sistema de gestion para clientes de la empresa Seguros Equinoccia
 
 # Importante instalacion de Mysql Connector:
 https://downloads.mysql.com/archives/c-j/
+
+# Importante utilizacion del script SQL que se encuentra en branch main.
