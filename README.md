@@ -16,4 +16,6 @@ https://downloads.mysql.com/archives/c-j/
 ## 3. Tomar en cuenta.
 Debemos tomar en cuenta que no todos tenemos los mismos usuarios y contraseñas dentro de nuestro mysql, por ello deberiamos cambiar valores dentro de la clase conexion si es necesario.
 
-
+## 4. Usuarios: 
+("pepa@epn.edu.ec", "123")
+("admin@epn.edu.ec", "123")
