@@ -8,10 +8,12 @@ Se trata de un sistema de gestion para clientes de la empresa Seguros Equinoccia
 
 # Conexion a mysqk
 
-## Se necesita descargar lo siguiente:
+## 1. Se necesita descargar lo siguiente:
 https://downloads.mysql.com/archives/c-j/
 
-## Se debe ejecutar 
-Ejecucion del SQL Script que he dejado dentro de main branch.
+## 2. Se debe ejecutar el script
+
+## 3. Tomar en cuenta.
+Debemos tomar en cuenta que no todos tenemos los mismos usuarios y contraseñas dentro de nuestro mysql, por ello deberiamos cambiar valores dentro de la clase conexion si es necesario.
 
 
